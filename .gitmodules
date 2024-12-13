@@ -1,3 +1,6 @@
 [submodule "daisotuyentinh"]
 	path = daisotuyentinh
 	url = https://github.com/Khoazxjee/daisotuyentinh
+[submodule "tinhocdaicuong"]
+	path = tinhocdaicuong
+	url = https://github.com/Khoazxjee/tinhocdaicuong
